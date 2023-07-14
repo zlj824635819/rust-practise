@@ -1,0 +1,2 @@
+# rust-practise
+hello rust
